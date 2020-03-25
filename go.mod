@@ -1,3 +1,3 @@
-module github.com/davyxu/golexer
+module golexer
 
 go 1.13
